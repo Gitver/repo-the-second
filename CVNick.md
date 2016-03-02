@@ -1,7 +1,3 @@
-% Buttondown Stylesheet Example
-% Pandoc Markdown Version
-% February 2012
-
 Curriculum Vitae
 =======
 
